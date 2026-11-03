@@ -1,6 +1,7 @@
 Using Gemini AI.
-use the Information Template under the with the Following Race which of these are needed? Enter the Race name/Chapter or Xeno
-use output to fill in the Below in each of the other files.
+use the Information Template under the with the Following Race which of these are needed? 
+Enter the Race name/Chapter or Xeno then use output to fill in the Below in each of the other files.
+
 {Faction Name}             = [Insert In-Universe Faction Name]
 {Mechanical Source Race}   = [Insert FFG 40k Mechanical Base, e.g., Eldar, Tau, Imperial, Ork, Necron]
 {Visual Aesthetic Source} = [Insert Exact Visual Anchor, e.g., StarCraft Protoss, Mass Effect Asari]
@@ -13,8 +14,9 @@ use output to fill in the Below in each of the other files.
 {Subhuman / Worker}        = [Insert Sub-type Name or None]
 {Demon / Entity}           = [Insert Sub-type Name or None]
 {Mount}                    = [Insert Sub-type Name or None]
-change any ROSTER CATALOG to the changes given by the Information Template
-run the Infantry, Daemons, Beasts, & Specialists Template for Ground Units
+
+Change any ROSTER CATALOG to the changes given by the Information Template
+Run the Infantry, Daemons, Beasts, & Specialists Template for Ground Units
 Run Void-Ships for Space Ships
 Run Ground Vehicles & Atmospheric Flyers for Tanks and Machines
 Run Relics, Artifacts, & Weapon Relics for Relics
